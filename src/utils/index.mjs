@@ -1,0 +1,10 @@
+export { add } from './add.mjs';
+export { cat } from './cat.mjs';
+export { compress } from './compress.mjs';
+export { copy } from './cp.mjs';
+export { decompress } from './decompress.mjs';
+export { hash } from './hash.mjs';
+export { ls } from './ls.mjs';
+export { os } from './os.mjs';
+export { remove } from './rm.mjs';
+export { rename } from './rn.mjs';
